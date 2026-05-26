@@ -83,7 +83,7 @@ def main():
         )
 
         if city.lower() == "quit":
-            print("👋 Goodbye")
+            print(" Goodbye")
             break
 
         get_weather(city)
